@@ -1,6 +1,11 @@
-### Hi there 🚀 
-#### I´m Daniel Portugal
-#### I´m from Arequipa - Peru  🌋 
+## Hi there 🚀 
+
+### 🚀 I´m Daniel Portugal
+### 🌋 I´m from Arequipa - Peru
+### 🍿 Seriefilo/cinefilo
+### 🤖 Funko pop lover
+### ✏️ Tattoo lover
+### 👧🏻 Valentina’s dad
 
 
 - 🔭 I’m currently working on ...
@@ -13,3 +18,6 @@
 - ⚡ Fun fact: ...
 
 ![lol](https://user-images.githubusercontent.com/7544049/102917172-b931fc80-4452-11eb-9840-108edd261e7c.jpg)
+
+
+
