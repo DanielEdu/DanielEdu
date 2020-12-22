@@ -1,5 +1,5 @@
 ### Hi there 🚀 
-#### I´m Daniel Portugarl
+#### I´m Daniel Portugal
 #### I´m from Arequipa - Peru  🌋 
 
 
