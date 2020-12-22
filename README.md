@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: [Logan, Pogui, Pinwii]
 - ⚡ Fun fact: ...
 
+![lol](https://user-images.githubusercontent.com/7544049/102917172-b931fc80-4452-11eb-9840-108edd261e7c.jpg)
