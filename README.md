@@ -1,11 +1,11 @@
 ## Hi there 🚀 
 
-### 🚀 I´m Daniel Portugal
-### 🌋 I´m from Arequipa - Peru
-### 🍿 Seriefilo/cinefilo
-### 🤖 Funko pop lover
-### ✏️ Tattoo lover
-### 👧🏻 Valentina’s dad
+### 🚀  I´m Daniel Portugal
+### 🌋  I´m from Arequipa - Peru
+### 🍿  Seriefilo/cinefilo
+### 🤖  Funko pop lover
+### ✏️  Tattoo lover
+### 👧🏻  Valentina’s dad
 
 
 - 🔭 I’m currently working on ...
