@@ -1,7 +1,7 @@
 ## Hi there 🚀 
 
 ### 🚀  I´m Daniel Portugal
-### 🌋  I´m from Arequipa - Peru
+### 🌋  I´m from Arequipa - Perú
 ### 🍿  Seriefilo/cinefilo
 ### 🤖  Funko pop lover
 ### ✏️  Tattoo lover
