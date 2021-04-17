@@ -8,8 +8,8 @@
 ### 👧🏻  Valentina’s dad
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Data Engineering
+- 🌱 I’m currently learning NLP and ML engineering
 - 👯 I’m looking to collaborate on projects about save the world
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Engineering 
