@@ -49,7 +49,7 @@ https://chat.whatsapp.com/Elqd5Xv3sluGFLaBfSHxMC
 https://www.linkedin.com/company/data-engineering-latam/
 
 📺 Canal de YouTube
-https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ
+https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ?sub_confirmation=1
 
 
 ¿Quieres dar charla en la comunidad?
