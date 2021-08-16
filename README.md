@@ -1,5 +1,5 @@
 ## Hi there 🚀 
-### 🚀  I´m Daniel Portugal
+### 🚀  I´m Daniel Eduardo Portugal Revilla
 ### 🌋  I´m from Arequipa - Perú
 ### 🍿  Seriefilo/cinefilo
 ### 🤖  Funko pop lover
@@ -38,12 +38,6 @@ https://join.slack.com/t/dataengineeringlatam/shared_invite/zt-qxvqbpvk-FezAdGoQ
 
 📈 LinkedIn
 https://www.linkedin.com/company/data-engineering-latam/
-
-🎤 WhatsApp exclusivo (Apúrate que se llena!)
-https://chat.whatsapp.com/Ed1pRrCo4bV6j7TASxrR9g
-
-🎤 WhatsApp de DAMA's Study Group (Apúrate que se llena!)
-https://chat.whatsapp.com/Elqd5Xv3sluGFLaBfSHxMC
 
 📈 No te olvides de seguir la página de Linkedin
 https://www.linkedin.com/company/data-engineering-latam/
