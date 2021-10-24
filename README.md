@@ -6,6 +6,8 @@
 ### ✏️  Tattoo lover
 ### 👧🏻  Valentina’s dad
 
+Founder of the Data Engineering LATAM community, in order to democratize and share knowledge and help all of us grow together 🚀💫⭐
+
 
 M. Sc. Big Data & Bs. Data Science with 7+ years of experience in IT and 2+ years of experience in Data Engineering in sectors as banking, telecom and production. With participation in data processing projects both batch and streaming, data architecture and data modelling with tools such as Apache Spark, Apache Kafka, Nifi, Airflow, Google Cloud, among others. Under Agile methodologies.
 
@@ -30,22 +32,11 @@ Founder of the Data Engineering LATAM community, in order to democratize and sha
 
 Únete a la comunidad Data Engineering LATAM en Slack. Para participar solo tienes que entrar a la siguiente dirección:
 
-📬 Telegram
-https://t.me/dataengineeringlatam
-
-🔍 Slack
-https://join.slack.com/t/dataengineeringlatam/shared_invite/zt-qxvqbpvk-FezAdGoQh~RB8zr0wVbCBw
-
-📈 LinkedIn
-https://www.linkedin.com/company/data-engineering-latam/
-
-📈 No te olvides de seguir la página de Linkedin
-https://www.linkedin.com/company/data-engineering-latam/
-
-📺 Canal de YouTube
-https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ?sub_confirmation=1
-
-
-¿Quieres dar charla en la comunidad?
-https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform📬
+- 📈 LinkedIn: https://lnkd.in/e6h3ym3 
+- 📚 Slack: https://lnkd.in/eV7hgF3 
+- ✉ Telegram: https://lnkd.in/e7mx572 
+- 📺 YouTube: https://lnkd.in/e6zwGwx 
+- 📸 Instagram: https://www.instagram.com/dataengineeringlatam/ 
+- 🐦 Twitter: https://twitter.com/DataEngiLATAM 
+- 👍 Facebook: https://www.facebook.com/dataengineeringlatam
 
