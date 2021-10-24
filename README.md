@@ -15,7 +15,6 @@ M. Sc. Big Data & Bs. Data Science with 7+ years of experience in IT and 2+ year
 Founder of the Data Engineering LATAM community, in order to democratize and share knowledge and help all of us grow together 🚀💫⭐
 
 
-
 - 🔭 I’m currently working on Data Engineering
 - 🌱 I’m currently learning NLP and ML engineering
 - 👯 I’m looking to collaborate on projects about save the world
@@ -27,16 +26,32 @@ Founder of the Data Engineering LATAM community, in order to democratize and sha
 
 ![lol](https://user-images.githubusercontent.com/7544049/102917172-b931fc80-4452-11eb-9840-108edd261e7c.jpg)
 
-¿Te gustaría compartir y aprender sobre 𝗦𝗤𝗟, 𝗕𝗮𝘀𝗲𝘀 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝗶𝗴𝗗𝗮𝘁𝗮, 𝗖𝗹𝗼𝘂𝗱, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗥, 𝗢𝗿𝗮𝗰𝗹𝗲, 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿, 𝗛𝗮𝗱𝗼𝗼𝗽, 𝗛𝗶𝘃𝗲, 𝗦𝗽𝗮𝗿𝗸, 𝗗𝗲𝗹𝘁𝗮 𝗟𝗮𝗸𝗲, 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀, 𝗴𝗶𝘁, 𝗔𝗶𝗿𝗳𝗹𝗼𝘄, 𝗔𝗽𝗮𝗰𝗵𝗲 𝗛𝘂𝗱𝗶, 𝗔𝗽𝗮𝗰𝗵𝗲 𝗞𝘂𝗱𝘂, 𝗗𝗩𝗖, 𝗹𝗮𝗸𝗲𝗙𝗦, 𝗙𝗹𝗶𝗻𝗸, 𝗔𝗪𝗦, 𝗔𝘇𝘂𝗿𝗲, 𝗚𝗖𝗣, 𝗣𝗿𝗲𝘀𝘁𝗼/𝗧𝗿𝗶𝗻𝗼, 𝗦𝗻𝗼𝘄𝗳𝗹𝗮𝗸𝗲, 𝗜𝗻𝗴𝗲𝗻𝗶𝗲𝗿í𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗠𝗟, 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁. GRATIS?
+✨ Rumbo a ser la comunidad de datos más grande de LATAM y del mundo. ✨
+Con la motivación de ayudar al crecimiento profecional mediante el aprendizaje distribuido y decentralizado de cada uno de los miembros de la comunidad. 
 
+¿Te gustaría participar de la comunidad y aprender de la mano de otros entusiastas del mundo de los datos?
 
-Únete a la comunidad Data Engineering LATAM en Slack. Para participar solo tienes que entrar a la siguiente dirección:
-
-- 📈 LinkedIn: https://lnkd.in/e6h3ym3 
-- 📚 Slack: https://lnkd.in/eV7hgF3 
-- ✉ Telegram: https://lnkd.in/e7mx572 
-- 📺 YouTube: https://lnkd.in/e6zwGwx 
-- 📸 Instagram: https://www.instagram.com/dataengineeringlatam/ 
-- 🐦 Twitter: https://twitter.com/DataEngiLATAM 
+- 📈 Linkedin: https://lnkd.in/e6h3ym3
+- 📚 Slack: https://lnkd.in/eV7hgF3
+- ✉ Telegram: https://t.me/dataengineeringlatam
+- 📺 YouTube: https://lnkd.in/e6zwGwx
+- 📸 Instagram: https://www.instagram.com/dataengineeringlatam/
+- 🐦 Twitter: https://twitter.com/DataEngiLATAM
 - 👍 Facebook: https://www.facebook.com/dataengineeringlatam
 
+
+¿Quieres dar charla en la comunidad? Bienvenidos todos los que quieran participar compartiendo conocimiento:
+
+🎤 https://lnkd.in/eV5jTzr
+
+Grupos de Estudios:
+
+Telegram: https://t.me/dataengineeringlatam
+- 🎤 English speaking and stuff
+- 🎤 DAMA's Study Group (Data Management)
+- 🎤 Databricks Certified Associate
+- 🎤 Apache Airflow Study Club
+- 🎤 Power BI como debe ser
+- 🎤 Club de Lectura / Designing data-intensive Applications 🐗
+
+📢 ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
