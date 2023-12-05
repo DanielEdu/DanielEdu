@@ -4,7 +4,7 @@
 ### 🍿  Seriefilo/cinefilo
 ### 🤖  Funko pop lover
 ### ✏️  Tattoo lover
-### 👧🏻  Valentina’s dad
+
 
 Founder of the Data Engineering LATAM community, in order to democratize and share knowledge and help all of us grow together 🚀💫⭐
 
