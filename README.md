@@ -1,7 +1,9 @@
 <!-- 🌌 Daniel Portugal - Personal README -->
 # 👋 Hi, I’m Daniel Portugal
 
-### 🧙‍♂️ Data Engineer | 🌎 Community Builder | 🎬 Cinephile | 🤖 Funko Collector
+## 🎉 From **Arequipa, Perú 🇵🇪**
+
+## 🧙‍♂️ Data Engineer | 🌎 Community Builder | 🎬 Cinephile | 🤖 Funko Collector
 
 > “Data is my craft, community is my purpose.” ✨  
 
@@ -35,6 +37,7 @@ Data_Lakehouse = {
   "Monitoring": ["Datadog", "Monte Carlo"],
   "DevOps": ["GitHub Actions", "Terraform"]
 }
+```
 ![lol](https://user-images.githubusercontent.com/7544049/102917172-b931fc80-4452-11eb-9840-108edd261e7c.jpg)
 
 ✨ Rumbo a ser la comunidad de datos más grande de LATAM y del mundo. ✨
